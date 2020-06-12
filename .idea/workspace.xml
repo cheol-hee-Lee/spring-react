@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7296fb83-0cf1-4cc7-b4a5-f85ef05b8836" name="Default Changelist" comment="" />
+    <list default="true" id="7296fb83-0cf1-4cc7-b4a5-f85ef05b8836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/payroll/DatabaseLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payroll/EmployeeRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +70,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -95,6 +100,7 @@
       <workItem from="1591417303447" duration="8627000" />
       <workItem from="1591438136928" duration="3276000" />
       <workItem from="1591978806567" duration="148000" />
+      <workItem from="1591978968934" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="1. Implement spring-boot-starter-hateoas&#10;2. Add EmployeeModelAssembler">
       <created>1591420223990</created>
@@ -150,10 +156,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1. Update LoadDatabase&#10;2. Add Order&#10;3. Add OrderController&#10;4. Add OrderModelAssembler&#10;5. Add OrderNotFoundException&#10;6. Add OrderRepository&#10;7. Add Status" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1591429163043">
+    <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1591979381544">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1591429163043" />
+    <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1591979381544" />
     <state width="794" height="247" key="GridCell.Tab.0.bottom" timestamp="1591443942009">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -186,6 +192,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="794" height="247" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state x="341" y="149" key="SettingsEditor" timestamp="1591979251840">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1591979251840" />
     <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1591443864791">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
