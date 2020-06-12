@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7296fb83-0cf1-4cc7-b4a5-f85ef05b8836" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cvmAOgGnDjJcyDNXej6U216fRw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="payroll" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="payroll.PayrollApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7296fb83-0cf1-4cc7-b4a5-f85ef05b8836" name="Default Changelist" comment="" />
+      <created>1591417296550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591417296550</updated>
+      <workItem from="1591417303447" duration="8627000" />
+      <workItem from="1591438136928" duration="3276000" />
+      <workItem from="1591978806567" duration="148000" />
+    </task>
+    <task id="LOCAL-00001" summary="1. Implement spring-boot-starter-hateoas&#10;2. Add EmployeeModelAssembler">
+      <created>1591420223990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591420223990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1. Add EmployeeModelAssembler&#10;2. Remove name&#10;3. Add firstName, lastName">
+      <created>1591425288743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591425288743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1. Update EmployeeController&#10;2. Update LoadDatabase">
+      <created>1591427237663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591427237664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1. Update LoadDatabase&#10;2. Add Order&#10;3. Add OrderController&#10;4. Add OrderModelAssembler&#10;5. Add OrderNotFoundException&#10;6. Add OrderRepository&#10;7. Add Status">
+      <created>1591440044325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591440044325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. Implement spring-boot-starter-hateoas&#10;2. Add EmployeeModelAssembler" />
+    <MESSAGE value="1. Add EmployeeModelAssembler&#10;2. Remove name&#10;3. Add firstName, lastName" />
+    <MESSAGE value="1. Update EmployeeController&#10;2. Update LoadDatabase" />
+    <MESSAGE value="1. Update LoadDatabase&#10;2. Add Order&#10;3. Add OrderController&#10;4. Add OrderModelAssembler&#10;5. Add OrderNotFoundException&#10;6. Add OrderRepository&#10;7. Add Status" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Update LoadDatabase&#10;2. Add Order&#10;3. Add OrderController&#10;4. Add OrderModelAssembler&#10;5. Add OrderNotFoundException&#10;6. Add OrderRepository&#10;7. Add Status" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1591429163043">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1591429163043" />
+    <state width="794" height="247" key="GridCell.Tab.0.bottom" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.0.center" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.0.left" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.0.right" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.1.bottom" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.1.center" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.1.left" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state width="794" height="247" key="GridCell.Tab.1.right" timestamp="1591443942009">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="794" height="247" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1591443942009" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1591443864791">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1591443864791" />
+    <state x="496" y="233" width="672" height="677" key="run.anything.popup" timestamp="1591419411677">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" width="672" height="677" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1591419411677" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1591419420763">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1591419420763" />
+  </component>
+</project>
