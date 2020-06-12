@@ -19,10 +19,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7296fb83-0cf1-4cc7-b4a5-f85ef05b8836" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/payroll/DatabaseLoader.java" afterDir="false" />
+    <list default="true" id="7296fb83-0cf1-4cc7-b4a5-f85ef05b8836" name="Default Changelist" comment="1. Add DatabaseLoader.java&#10;2. Update EmployeeRepository.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/payroll/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/payroll/ReactAndSpringDataRestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/payroll/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/EmployeeModelAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/EmployeeNotFoundAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/EmployeeNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/LoadDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/OrderModelAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/OrderNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/PayrollApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/payroll/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +62,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,6 +79,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -62,6 +89,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,9 +107,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="PayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="ReactAndSpringDataRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="payroll.PayrollApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="payroll.ReactAndSpringDataRestApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,7 +129,7 @@
       <workItem from="1591417303447" duration="8627000" />
       <workItem from="1591438136928" duration="3276000" />
       <workItem from="1591978806567" duration="148000" />
-      <workItem from="1591978968934" duration="510000" />
+      <workItem from="1591978968934" duration="1281000" />
     </task>
     <task id="LOCAL-00001" summary="1. Implement spring-boot-starter-hateoas&#10;2. Add EmployeeModelAssembler">
       <created>1591420223990</created>
@@ -130,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591440044325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1. Add DatabaseLoader.java&#10;2. Update EmployeeRepository.java">
+      <created>1591979550104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591979550104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,13 +189,26 @@
     <MESSAGE value="1. Add EmployeeModelAssembler&#10;2. Remove name&#10;3. Add firstName, lastName" />
     <MESSAGE value="1. Update EmployeeController&#10;2. Update LoadDatabase" />
     <MESSAGE value="1. Update LoadDatabase&#10;2. Add Order&#10;3. Add OrderController&#10;4. Add OrderModelAssembler&#10;5. Add OrderNotFoundException&#10;6. Add OrderRepository&#10;7. Add Status" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Update LoadDatabase&#10;2. Add Order&#10;3. Add OrderController&#10;4. Add OrderModelAssembler&#10;5. Add OrderNotFoundException&#10;6. Add OrderRepository&#10;7. Add Status" />
+    <MESSAGE value="1. Add DatabaseLoader.java&#10;2. Update EmployeeRepository.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Add DatabaseLoader.java&#10;2. Update EmployeeRepository.java" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="588" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591979829378">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="588" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1591979829378" />
     <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1591979381544">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="1065" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1591979381544" />
+    <state x="863" y="297" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591979823703">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="863" y="297" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1591979823703" />
+    <state x="990" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591979870093">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="990" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1591979870093" />
     <state width="794" height="247" key="GridCell.Tab.0.bottom" timestamp="1591443942009">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -196,10 +245,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1591979251840" />
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1591443864791">
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1591979563512">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1591443864791" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1591979563512" />
     <state x="496" y="233" width="672" height="677" key="run.anything.popup" timestamp="1591419411677">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
